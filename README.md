@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/imfunniee/imfunniee.github.io/master/fimbo/img/fimbo.png"/>
+<img width="2720" height="868" alt="continuum_engineering_logo" src="https://github.com/user-attachments/assets/ee783ff1-8f28-4d04-aaf7-1f611f6a5603" />
 
 # Mission Statement
-Hottenger is currently a single owner startup focused on delivering unequalled economicical and quality engineeing/design products focused in the topics of data acquisition/controls and structural, fluid, and dynamical analyses. This will be brought to fruition through hard work, efficient design choices, and the use of open source finite element and data acquisition software which will keep overall overhead costs to a minimum and privide a high quality product at a lower cost.
+Hottenger is currently a single owner startup focused on delivering unequalled economic and quality engineeing/design products focused on the topics of data acquisition/controls and structural, fluid, and dynamic analyses. This will be brought to fruition through hard work, efficient design choices, and the use of open-source finite element and data acquisition software, which will keep overall overhead costs to a minimum and provide a high-quality product at a lower cost.
 
 ### Contact Information
 email: to be added
@@ -17,17 +17,19 @@ location: region to be added
 (In progress)
 
 # Quality Assurance
-Hottenger offers an exceptional level of assurance via multi-method verification. Multi-method verification is the use of multiple analysis techniques (where reasonably applicable) to achive the same or similar conclusion for any analysis. Depending on the available capitol, client needs, or engineering judgement, either analysis solution can be used.
+Hottenger offers an exceptional level of assurance via multi-method verification. Multi-method verification is the use of multiple analysis techniques (where reasonably applicable) to achieve the same or similar conclusion for any analysis. Depending on the available capital, client needs, or engineering judgment, either analysis solution can be used.
 
 # Examples
 (In progress)
  2d cavity flow
  dam break
- cylinder turbulance
+ cylinder turbulence
  need a structural analysis
  need a modal analysis
- nin linear dynamics example
+ non-linear dynamics example
 
 # Example Documentation
 (In progress)
-upload latex document that show jumble text and formatting
+upload LaTeX document that shows jumbled<img width="2720" height="868" alt="continuum_engineering_logo" src="https://github.com/user-attachments/assets/8471adc8-6201-4fbd-a466-c97111b9852a" />
+<img width="2720" height="868" alt="continuum_engineering_logo" src="https://github.com/user-attachments/assets/9981f559-982d-49c9-a3d8-d22caaf97144" />
+ text and formatting
