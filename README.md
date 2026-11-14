@@ -4,11 +4,8 @@
 Hottenger is currently a single owner startup focused on delivering unequalled economic and quality engineeing/design products focused on the topics of data acquisition/controls and structural, fluid, and dynamic analyses. This will be brought to fruition through hard work, efficient design choices, and the use of open-source finite element and data acquisition software, which will keep overall overhead costs to a minimum and provide a high-quality product at a lower cost.
 
 ### Contact Information
-email: to be added
-
-phone: to be added
-
-location: region to be added
+Location: Eastern Tennessee (Greater Chattanooga Area)
+Email: continuum.engineering.llc@gmail.com
 
 # About the Owner
 (In progress)
