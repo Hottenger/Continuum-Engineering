@@ -30,6 +30,4 @@ Hottenger offers an exceptional level of assurance via multi-method verification
 
 # Example Documentation
 (In progress)
-upload LaTeX document that shows jumbled<img width="2720" height="868" alt="continuum_engineering_logo" src="https://github.com/user-attachments/assets/8471adc8-6201-4fbd-a466-c97111b9852a" />
-<img width="2720" height="868" alt="continuum_engineering_logo" src="https://github.com/user-attachments/assets/9981f559-982d-49c9-a3d8-d22caaf97144" />
- text and formatting
+Upload a LaTeX document that shows jumbled text and formatting
